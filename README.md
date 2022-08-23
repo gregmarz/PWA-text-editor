@@ -24,6 +24,10 @@ npm start
 
 This is the video [guide](https://www.youtube.com/watch?v=XWaD8DPvsTs)
 
+## Deployed Link
+
+[Heroku](https://pwa-te-gregmarz.herokuapp.com/)
+
 ## Tools Used
 
 - JavaScript
